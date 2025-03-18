@@ -68,4 +68,4 @@ echo "------------------------------------------Mod by Prince96-----------------
 echo "Installation Success"
 echo " Reboot in 5 Sec"
 sleep 5
-reboot
+exit
