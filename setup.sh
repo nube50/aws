@@ -181,4 +181,4 @@ sleep 8
 clear 
 figlet -f slant "Good Bye By Prince" | lolcat
 sleep 2
-reboot
+exit
